@@ -68,4 +68,4 @@
 
 ### 32.[Valid Anagram](https://github.com/rever4433/LeetCode/tree/master/Valid%20Anagram)
 
-### 33.[InvertTree](https://github.com/rever4433/LeetCode/tree/master/InvertTree)](https://github.com/rever4433/LeetCode/tree/master/twoSum)
+### 33.[InvertTree](https://github.com/rever4433/LeetCode/tree/master/InvertTree)
