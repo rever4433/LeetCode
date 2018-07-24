@@ -2,6 +2,10 @@
 
 工作一年了，还是会偶尔刷刷Leetcode，有些题目确实能带给人很多思考。所以打算把做过的Leetcode记录下来，希望也能对其他人有所启发。
 
+
+
+---
+
 # Solved problems
 
 ### 1.[AddDigts](https://github.com/rever4433/LeetCode/tree/master/AddDigts)
@@ -20,7 +24,7 @@
 
 ### 8.[Find All Duplicates in an Array](https://github.com/rever4433/LeetCode/tree/master/Find%20All%20Duplicates%20in%20an%20Array)
 
-### 9.[invertTree](https://github.com/rever4433/LeetCode/tree/master/invertTree)
+### 9.[Invert Tree](https://github.com/rever4433/LeetCode/tree/master/Invert%20Tree)
 
 ### 10.[Jewels and stones](https://github.com/rever4433/LeetCode/tree/master/Jewels%20and%20stones)
 
@@ -67,5 +71,3 @@
 ### 31.[Unique Morse Code Words](https://github.com/rever4433/LeetCode/tree/master/Unique%20Morse%20Code%20Words)
 
 ### 32.[Valid Anagram](https://github.com/rever4433/LeetCode/tree/master/Valid%20Anagram)
-
-### 33.[InvertTree](https://github.com/rever4433/LeetCode/tree/master/InvertTree)
