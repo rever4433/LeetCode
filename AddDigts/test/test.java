@@ -1,4 +1,4 @@
-package test;
+package AddDigts.test;
 
 import java.util.Scanner;
 

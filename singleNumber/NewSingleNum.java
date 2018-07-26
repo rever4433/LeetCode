@@ -1,3 +1,12 @@
+package singleNumber;
+/**
+ * 
+ * @Title: NewSingleNum
+ * @description: 
+ * @author: gaoyakang
+ * @date: 2018年7月26日 上午10:05:46
+ *
+ */
 public class NewSingleNum {
   public static int singleNum(int[] nums){
 	  int result=nums[0];

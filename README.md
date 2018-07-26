@@ -12,62 +12,84 @@
 
 ### 2.[BestTimeToBuyAndSellStockSeries](https://github.com/rever4433/LeetCode/tree/master/BestTimeToBuyAndSellStockSeries)
 
-### 3.[Binary Tree Inorder Traversal](https://github.com/rever4433/LeetCode/tree/master/Binary%20Tree%20Inorder%20Traversal)
+### 3.[BinaryTreeInorderTraversal](https://github.com/rever4433/LeetCode/tree/master/BinaryTreeInorderTraversal)
 
-### 4.[Binary Tree Preorder Traversal](https://github.com/rever4433/LeetCode/tree/master/Binary%20Tree%20Preorder%20Traversal)
+### 4.[BinaryTreePreorderTraversal](https://github.com/rever4433/LeetCode/tree/master/BinaryTreePreorderTraversal)
 
-### 5.[Binary Tree Pruning](https://github.com/rever4433/LeetCode/tree/master/Binary%20Tree%20Pruning)
+### 5.[BinaryTreePruning](https://github.com/rever4433/LeetCode/tree/master/BinaryTreePruning)
 
-### 6.[Contains Duplicate](https://github.com/rever4433/LeetCode/tree/master/Contains%20Duplicate)
+### 6.[ContainsDuplicate](https://github.com/rever4433/LeetCode/tree/master/ContainsDuplicate)
 
-### 7.[Excel Sheet Column Number](https://github.com/rever4433/LeetCode/tree/master/Excel%20Sheet%20Column%20Number)
+### 7.[CountingBits](https://github.com/rever4433/LeetCode/tree/master/CountingBits)
 
-### 8.[Find All Duplicates in an Array](https://github.com/rever4433/LeetCode/tree/master/Find%20All%20Duplicates%20in%20an%20Array)
+### 8.[EncodeAndDecodeTinyURL](https://github.com/rever4433/LeetCode/tree/master/EncodeAndDecodeTinyURL)
 
-### 9.[Invert Tree](https://github.com/rever4433/LeetCode/tree/master/Invert%20Tree)
+### 9.[ExcelSheetColumnNumber](https://github.com/rever4433/LeetCode/tree/master/ExcelSheetColumnNumber)
 
-### 10.[Jewels and stones](https://github.com/rever4433/LeetCode/tree/master/Jewels%20and%20stones)
+### 10.[FindAllDuplicatesInAnArray](https://github.com/rever4433/LeetCode/tree/master/FindAllDuplicatesInAnArray)
 
-### 11.[Linked List Cycle](https://github.com/rever4433/LeetCode/tree/master/Linked%20List%20Cycle)
+### 11.[FlippingAnImage](https://github.com/rever4433/LeetCode/tree/master/FlippingAnImage)
 
-### 12.[Lowest Common Ancestor of a Binary Search Tree](https://github.com/rever4433/LeetCode/tree/master/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
+### 12.[HammingDistance](https://github.com/rever4433/LeetCode/tree/master/HammingDistance)
 
-### 13.[Majority Element](https://github.com/rever4433/LeetCode/tree/master/Majority%20Element)
+### 13.[InvertTree](https://github.com/rever4433/LeetCode/tree/master/InvertTree)
 
-### 14.[Max Increase To Keep City Skyline](https://github.com/rever4433/LeetCode/tree/master/Max%20Increase%20To%20Keep%20City%20Skyline)
+### 14.[JewelsAndStones](https://github.com/rever4433/LeetCode/tree/master/JewelsAndStones)
 
-### 15.[Maximum Binary Tree](https://github.com/rever4433/LeetCode/tree/master/Maximum%20Binary%20Tree)
+### 15.[LinkedListCycle](https://github.com/rever4433/LeetCode/tree/master/LinkedListCycle)
 
-### 16.[Maximum Depth of Binary Tree](https://github.com/rever4433/LeetCode/tree/master/Maximum%20Depth%20of%20Binary%20Tree)
+### 16.[LowestCommonAncestorOfABinarySearchTree](https://github.com/rever4433/LeetCode/tree/master/LowestCommonAncestorOfABinarySearchTree)
 
-### 17.[Missing Number](https://github.com/rever4433/LeetCode/tree/master/Missing%20Number)
+### 17.[MajorityElement](https://github.com/rever4433/LeetCode/tree/master/MajorityElement)
 
-### 18.[MoveZeroes](https://github.com/rever4433/LeetCode/tree/master/MoveZeroes)
+### 18.[MaximumBinaryTree](https://github.com/rever4433/LeetCode/tree/master/MaximumBinaryTree)
 
-### 19.[N-Queens](https://github.com/rever4433/LeetCode/tree/master/N-Queens)
+### 19.[MaximumDepthOfBinaryTree](https://github.com/rever4433/LeetCode/tree/master/MaximumDepthOfBinaryTree)
 
-### 20.[Nim Game](https://github.com/rever4433/LeetCode/tree/master/Nim%20Game)
+### 20.[MaxIncreaseToKeepCitySkyline](https://github.com/rever4433/LeetCode/tree/master/MaxIncreaseToKeepCitySkyline)
 
-### 21.[Number of 1 Bits](https://github.com/rever4433/LeetCode/tree/master/Number%20of%201%20Bits)
+### 21.[MissingNumber](https://github.com/rever4433/LeetCode/tree/master/MissingNumber)
 
-### 22.[Perfect Number](https://github.com/rever4433/LeetCode/tree/master/Perfect%20Number)
+### 22.[MoveZeroes](https://github.com/rever4433/LeetCode/tree/master/MoveZeroes)
 
-### 23.[Product of Array Except Self](https://github.com/rever4433/LeetCode/tree/master/Product%20of%20Array%20Except%20Self)
+### 23.[NimGame](https://github.com/rever4433/LeetCode/tree/master/NimGame)
 
-### 24.[Rome number](https://github.com/rever4433/LeetCode/tree/master/Rome%20number)
+### 24.[NQueens](https://github.com/rever4433/LeetCode/tree/master/NQueens)
 
-### 25.[SameTree](https://github.com/rever4433/LeetCode/tree/master/SameTree)
+### 25.[NumberOf_1_Bits](https://github.com/rever4433/LeetCode/tree/master/NumberOf_1_Bits)
 
-### 26.[Single Element in a Sorted Array](https://github.com/rever4433/LeetCode/tree/master/Single%20Element%20in%20a%20Sorted%20Array)
+### 26.[PerfectNumber](https://github.com/rever4433/LeetCode/tree/master/PerfectNumber)
 
-### 27.[Single Number III](https://github.com/rever4433/LeetCode/tree/master/Single%20Number%20III)
+### 27.[ProductOfArrayExceptSelf](https://github.com/rever4433/LeetCode/tree/master/ProductOfArrayExceptSelf)
 
-### 28.[singleNumber](https://github.com/rever4433/LeetCode/tree/master/singleNumber)
+### 28.[ReverseString](https://github.com/rever4433/LeetCode/tree/master/ReverseString)
 
-### 29.[Trim A Binary Search Tree](https://github.com/rever4433/LeetCode/tree/master/Trim%20A%20Binary%20Search%20Tree)
+### 29.[RomeNumber](https://github.com/rever4433/LeetCode/tree/master/RomeNumber)
 
-### 30.[Two Sum](https://github.com/rever4433/LeetCode/tree/master/Two%20Sum)
+### 30.[SameTree](https://github.com/rever4433/LeetCode/tree/master/SameTree)
 
-### 31.[Unique Morse Code Words](https://github.com/rever4433/LeetCode/tree/master/Unique%20Morse%20Code%20Words)
+### 31.[SingleElementInASortedArray](https://github.com/rever4433/LeetCode/tree/master/SingleElementInASortedArray)
 
-### 32.[Valid Anagram](https://github.com/rever4433/LeetCode/tree/master/Valid%20Anagram)
+### 32.[singleNumber](https://github.com/rever4433/LeetCode/tree/master/singleNumber)
+
+### 33.[SingleNumberIII](https://github.com/rever4433/LeetCode/tree/master/SingleNumberIII)
+
+### 34.[ToLowerCase](https://github.com/rever4433/LeetCode/tree/master/ToLowerCase)
+
+### 35.[TrimABinarySearchTree](https://github.com/rever4433/LeetCode/tree/master/TrimABinarySearchTree)
+
+### 36.[TwoSum](https://github.com/rever4433/LeetCode/tree/master/TwoSum)
+
+### 37.[UniqueMorseCodeWords](https://github.com/rever4433/LeetCode/tree/master/UniqueMorseCodeWords)
+
+### 38.[ValidAnagram](https://github.com/rever4433/LeetCode/tree/master/ValidAnagram)
+
+### 13.[InvertTree](https://github.com/rever4433/LeetCode/tree/master/InvertTree)
+
+### 40.[linkedListCycle](https://github.com/rever4433/LeetCode/tree/master/linkedListCycle)
+
+### 41.[missingNumber](https://github.com/rever4433/LeetCode/tree/master/missingNumber)
+
+### 23.[NimGame](https://github.com/rever4433/LeetCode/tree/master/NimGame)
+
+### 43.[romeNumber](https://github.com/rever4433/LeetCode/tree/master/romeNumber)

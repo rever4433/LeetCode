@@ -1,3 +1,4 @@
+package MoveZeroes;
 import java.util.Stack;
 public class Solution {
 	 public static void moveZeroes(int[] nums) {
