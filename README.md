@@ -83,13 +83,3 @@
 ### 37.[UniqueMorseCodeWords](https://github.com/rever4433/LeetCode/tree/master/UniqueMorseCodeWords)
 
 ### 38.[ValidAnagram](https://github.com/rever4433/LeetCode/tree/master/ValidAnagram)
-
-### 13.[InvertTree](https://github.com/rever4433/LeetCode/tree/master/InvertTree)
-
-### 40.[linkedListCycle](https://github.com/rever4433/LeetCode/tree/master/linkedListCycle)
-
-### 41.[missingNumber](https://github.com/rever4433/LeetCode/tree/master/missingNumber)
-
-### 23.[NimGame](https://github.com/rever4433/LeetCode/tree/master/NimGame)
-
-### 43.[romeNumber](https://github.com/rever4433/LeetCode/tree/master/romeNumber)
